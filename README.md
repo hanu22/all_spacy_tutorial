@@ -9,3 +9,5 @@ All three English models use GloVe vectors trained on Common Crawl,
 
 It's quite doable to add custom vectors. 
 There's an overview of the process in the spaCy docs, plus some example code on Github.
+
+Common crawl - https://en.wikipedia.org/wiki/Common_Crawl
